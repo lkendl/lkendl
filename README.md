@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, programming, coding
 - 🌱 I’m currently learning PHP
 - 💞️ I’m not looking to collaborate at the moment (but in the future!) :)
-- 📫 How to reach me...
+- 📫 Call me, beep me, if you want to reach me
 
 <!---
 lkendl/lkendl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
