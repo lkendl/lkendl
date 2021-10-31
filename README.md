@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lkendl
 - 👀 I’m interested in gaming, programming, coding
-- 🌱 I’m currently learning PHP and Github
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m not looking to collaborate at the moment
 - 📫 Call me, beep me, if you want to reach me
 
