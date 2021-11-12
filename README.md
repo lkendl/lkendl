@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @lkendl
-- 👀 I’m interested in gaming, programming, coding
+- 👋 Hi, I’m Laura
+- 👀 I’m interested in gaming, programming, and web design
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m not looking to collaborate at the moment
-- 📫 Call me, beep me, if you want to reach me
 
 <!---
 lkendl/lkendl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
